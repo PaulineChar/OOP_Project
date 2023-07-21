@@ -1,0 +1,54 @@
+C:\Users\Pauline\OneDrive\Documents\Algebra\Object-oriented programming - lab in .NET environment\OOPNET - CHARASSON Pauline - 2RPE1\OOP Project\WPF\bin\Debug\net6.0-windows\Images\Hugo LLORIS.jpg
+C:\Users\Pauline\OneDrive\Documents\Algebra\Object-oriented programming - lab in .NET environment\OOPNET - CHARASSON Pauline - 2RPE1\OOP Project\WPF\bin\Debug\net6.0-windows\Images\Lionel MESSI.jpg
+C:\Users\Pauline\OneDrive\Documents\Algebra\Object-oriented programming - lab in .NET environment\OOPNET - CHARASSON Pauline - 2RPE1\OOP Project\WPF\bin\Debug\net6.0-windows\Images\Marko PJACA.jpg
+C:\Users\Pauline\OneDrive\Documents\Algebra\Object-oriented programming - lab in .NET environment\OOPNET - CHARASSON Pauline - 2RPE1\OOP Project\WPF\bin\Debug\net6.0-windows\Properties\Images\Hugo LLORIS.png
+C:\Users\Pauline\OneDrive\Documents\Algebra\Object-oriented programming - lab in .NET environment\OOPNET - CHARASSON Pauline - 2RPE1\OOP Project\WPF\bin\Debug\net6.0-windows\Properties\Images\Lionel MESSI.png
+C:\Users\Pauline\OneDrive\Documents\Algebra\Object-oriented programming - lab in .NET environment\OOPNET - CHARASSON Pauline - 2RPE1\OOP Project\WPF\bin\Debug\net6.0-windows\Properties\Images\Marko PJACA.png
+C:\Users\Pauline\OneDrive\Documents\Algebra\Object-oriented programming - lab in .NET environment\OOPNET - CHARASSON Pauline - 2RPE1\OOP Project\WPF\bin\Debug\net6.0-windows\WPF.exe
+C:\Users\Pauline\OneDrive\Documents\Algebra\Object-oriented programming - lab in .NET environment\OOPNET - CHARASSON Pauline - 2RPE1\OOP Project\WPF\bin\Debug\net6.0-windows\WPF.deps.json
+C:\Users\Pauline\OneDrive\Documents\Algebra\Object-oriented programming - lab in .NET environment\OOPNET - CHARASSON Pauline - 2RPE1\OOP Project\WPF\bin\Debug\net6.0-windows\WPF.runtimeconfig.json
+C:\Users\Pauline\OneDrive\Documents\Algebra\Object-oriented programming - lab in .NET environment\OOPNET - CHARASSON Pauline - 2RPE1\OOP Project\WPF\bin\Debug\net6.0-windows\WPF.dll
+C:\Users\Pauline\OneDrive\Documents\Algebra\Object-oriented programming - lab in .NET environment\OOPNET - CHARASSON Pauline - 2RPE1\OOP Project\WPF\bin\Debug\net6.0-windows\WPF.pdb
+C:\Users\Pauline\OneDrive\Documents\Algebra\Object-oriented programming - lab in .NET environment\OOPNET - CHARASSON Pauline - 2RPE1\OOP Project\WPF\bin\Debug\net6.0-windows\en\WPF.resources.dll
+C:\Users\Pauline\OneDrive\Documents\Algebra\Object-oriented programming - lab in .NET environment\OOPNET - CHARASSON Pauline - 2RPE1\OOP Project\WPF\bin\Debug\net6.0-windows\fr\WPF.resources.dll
+C:\Users\Pauline\OneDrive\Documents\Algebra\Object-oriented programming - lab in .NET environment\OOPNET - CHARASSON Pauline - 2RPE1\OOP Project\WPF\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Pauline\OneDrive\Documents\Algebra\Object-oriented programming - lab in .NET environment\OOPNET - CHARASSON Pauline - 2RPE1\OOP Project\WPF\bin\Debug\net6.0-windows\RestSharp.dll
+C:\Users\Pauline\OneDrive\Documents\Algebra\Object-oriented programming - lab in .NET environment\OOPNET - CHARASSON Pauline - 2RPE1\OOP Project\WPF\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Pauline\OneDrive\Documents\Algebra\Object-oriented programming - lab in .NET environment\OOPNET - CHARASSON Pauline - 2RPE1\OOP Project\WPF\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Pauline\OneDrive\Documents\Algebra\Object-oriented programming - lab in .NET environment\OOPNET - CHARASSON Pauline - 2RPE1\OOP Project\WPF\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Pauline\OneDrive\Documents\Algebra\Object-oriented programming - lab in .NET environment\OOPNET - CHARASSON Pauline - 2RPE1\OOP Project\WPF\bin\Debug\net6.0-windows\DAL.dll
+C:\Users\Pauline\OneDrive\Documents\Algebra\Object-oriented programming - lab in .NET environment\OOPNET - CHARASSON Pauline - 2RPE1\OOP Project\WPF\bin\Debug\net6.0-windows\DAL.pdb
+C:\Users\Pauline\OneDrive\Documents\Algebra\Object-oriented programming - lab in .NET environment\OOPNET - CHARASSON Pauline - 2RPE1\OOP Project\WPF\obj\Debug\net6.0-windows\WPF.csproj.AssemblyReference.cache
+C:\Users\Pauline\OneDrive\Documents\Algebra\Object-oriented programming - lab in .NET environment\OOPNET - CHARASSON Pauline - 2RPE1\OOP Project\WPF\obj\Debug\net6.0-windows\ConfirmationWindow.g.cs
+C:\Users\Pauline\OneDrive\Documents\Algebra\Object-oriented programming - lab in .NET environment\OOPNET - CHARASSON Pauline - 2RPE1\OOP Project\WPF\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Pauline\OneDrive\Documents\Algebra\Object-oriented programming - lab in .NET environment\OOPNET - CHARASSON Pauline - 2RPE1\OOP Project\WPF\obj\Debug\net6.0-windows\PlayerOverviewWindow.g.cs
+C:\Users\Pauline\OneDrive\Documents\Algebra\Object-oriented programming - lab in .NET environment\OOPNET - CHARASSON Pauline - 2RPE1\OOP Project\WPF\obj\Debug\net6.0-windows\SettingsWindow.g.cs
+C:\Users\Pauline\OneDrive\Documents\Algebra\Object-oriented programming - lab in .NET environment\OOPNET - CHARASSON Pauline - 2RPE1\OOP Project\WPF\obj\Debug\net6.0-windows\TeamOverviewWindow.g.cs
+C:\Users\Pauline\OneDrive\Documents\Algebra\Object-oriented programming - lab in .NET environment\OOPNET - CHARASSON Pauline - 2RPE1\OOP Project\WPF\obj\Debug\net6.0-windows\User_controls\PlayersUC.g.cs
+C:\Users\Pauline\OneDrive\Documents\Algebra\Object-oriented programming - lab in .NET environment\OOPNET - CHARASSON Pauline - 2RPE1\OOP Project\WPF\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Pauline\OneDrive\Documents\Algebra\Object-oriented programming - lab in .NET environment\OOPNET - CHARASSON Pauline - 2RPE1\OOP Project\WPF\obj\Debug\net6.0-windows\WPF_Content.g.cs
+C:\Users\Pauline\OneDrive\Documents\Algebra\Object-oriented programming - lab in .NET environment\OOPNET - CHARASSON Pauline - 2RPE1\OOP Project\WPF\obj\Debug\net6.0-windows\WPF_MarkupCompile.cache
+C:\Users\Pauline\OneDrive\Documents\Algebra\Object-oriented programming - lab in .NET environment\OOPNET - CHARASSON Pauline - 2RPE1\OOP Project\WPF\obj\Debug\net6.0-windows\WPF_MarkupCompile.lref
+C:\Users\Pauline\OneDrive\Documents\Algebra\Object-oriented programming - lab in .NET environment\OOPNET - CHARASSON Pauline - 2RPE1\OOP Project\WPF\obj\Debug\net6.0-windows\ConfirmationWindow.baml
+C:\Users\Pauline\OneDrive\Documents\Algebra\Object-oriented programming - lab in .NET environment\OOPNET - CHARASSON Pauline - 2RPE1\OOP Project\WPF\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Pauline\OneDrive\Documents\Algebra\Object-oriented programming - lab in .NET environment\OOPNET - CHARASSON Pauline - 2RPE1\OOP Project\WPF\obj\Debug\net6.0-windows\PlayerOverviewWindow.baml
+C:\Users\Pauline\OneDrive\Documents\Algebra\Object-oriented programming - lab in .NET environment\OOPNET - CHARASSON Pauline - 2RPE1\OOP Project\WPF\obj\Debug\net6.0-windows\SettingsWindow.baml
+C:\Users\Pauline\OneDrive\Documents\Algebra\Object-oriented programming - lab in .NET environment\OOPNET - CHARASSON Pauline - 2RPE1\OOP Project\WPF\obj\Debug\net6.0-windows\TeamOverviewWindow.baml
+C:\Users\Pauline\OneDrive\Documents\Algebra\Object-oriented programming - lab in .NET environment\OOPNET - CHARASSON Pauline - 2RPE1\OOP Project\WPF\obj\Debug\net6.0-windows\User_controls\PlayersUC.baml
+C:\Users\Pauline\OneDrive\Documents\Algebra\Object-oriented programming - lab in .NET environment\OOPNET - CHARASSON Pauline - 2RPE1\OOP Project\WPF\obj\Debug\net6.0-windows\WPF.g.resources
+C:\Users\Pauline\OneDrive\Documents\Algebra\Object-oriented programming - lab in .NET environment\OOPNET - CHARASSON Pauline - 2RPE1\OOP Project\WPF\obj\Debug\net6.0-windows\WPF.Properties.Resources.resources
+C:\Users\Pauline\OneDrive\Documents\Algebra\Object-oriented programming - lab in .NET environment\OOPNET - CHARASSON Pauline - 2RPE1\OOP Project\WPF\obj\Debug\net6.0-windows\WPF.Properties.Resources.en.resources
+C:\Users\Pauline\OneDrive\Documents\Algebra\Object-oriented programming - lab in .NET environment\OOPNET - CHARASSON Pauline - 2RPE1\OOP Project\WPF\obj\Debug\net6.0-windows\WPF.Properties.Resources.fr.resources
+C:\Users\Pauline\OneDrive\Documents\Algebra\Object-oriented programming - lab in .NET environment\OOPNET - CHARASSON Pauline - 2RPE1\OOP Project\WPF\obj\Debug\net6.0-windows\WPF.csproj.GenerateResource.cache
+C:\Users\Pauline\OneDrive\Documents\Algebra\Object-oriented programming - lab in .NET environment\OOPNET - CHARASSON Pauline - 2RPE1\OOP Project\WPF\obj\Debug\net6.0-windows\WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pauline\OneDrive\Documents\Algebra\Object-oriented programming - lab in .NET environment\OOPNET - CHARASSON Pauline - 2RPE1\OOP Project\WPF\obj\Debug\net6.0-windows\WPF.AssemblyInfoInputs.cache
+C:\Users\Pauline\OneDrive\Documents\Algebra\Object-oriented programming - lab in .NET environment\OOPNET - CHARASSON Pauline - 2RPE1\OOP Project\WPF\obj\Debug\net6.0-windows\WPF.AssemblyInfo.cs
+C:\Users\Pauline\OneDrive\Documents\Algebra\Object-oriented programming - lab in .NET environment\OOPNET - CHARASSON Pauline - 2RPE1\OOP Project\WPF\obj\Debug\net6.0-windows\WPF.csproj.CoreCompileInputs.cache
+C:\Users\Pauline\OneDrive\Documents\Algebra\Object-oriented programming - lab in .NET environment\OOPNET - CHARASSON Pauline - 2RPE1\OOP Project\WPF\obj\Debug\net6.0-windows\en\WPF.resources.dll
+C:\Users\Pauline\OneDrive\Documents\Algebra\Object-oriented programming - lab in .NET environment\OOPNET - CHARASSON Pauline - 2RPE1\OOP Project\WPF\obj\Debug\net6.0-windows\fr\WPF.resources.dll
+C:\Users\Pauline\OneDrive\Documents\Algebra\Object-oriented programming - lab in .NET environment\OOPNET - CHARASSON Pauline - 2RPE1\OOP Project\WPF\obj\Debug\net6.0-windows\WPF.csproj.CopyComplete
+C:\Users\Pauline\OneDrive\Documents\Algebra\Object-oriented programming - lab in .NET environment\OOPNET - CHARASSON Pauline - 2RPE1\OOP Project\WPF\obj\Debug\net6.0-windows\WPF.dll
+C:\Users\Pauline\OneDrive\Documents\Algebra\Object-oriented programming - lab in .NET environment\OOPNET - CHARASSON Pauline - 2RPE1\OOP Project\WPF\obj\Debug\net6.0-windows\refint\WPF.dll
+C:\Users\Pauline\OneDrive\Documents\Algebra\Object-oriented programming - lab in .NET environment\OOPNET - CHARASSON Pauline - 2RPE1\OOP Project\WPF\obj\Debug\net6.0-windows\WPF.pdb
+C:\Users\Pauline\OneDrive\Documents\Algebra\Object-oriented programming - lab in .NET environment\OOPNET - CHARASSON Pauline - 2RPE1\OOP Project\WPF\obj\Debug\net6.0-windows\WPF.genruntimeconfig.cache
+C:\Users\Pauline\OneDrive\Documents\Algebra\Object-oriented programming - lab in .NET environment\OOPNET - CHARASSON Pauline - 2RPE1\OOP Project\WPF\obj\Debug\net6.0-windows\ref\WPF.dll

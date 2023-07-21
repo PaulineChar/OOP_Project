@@ -1,0 +1,63 @@
+﻿<Window x:Class="WPF.TeamOverviewWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF"
+        xmlns:p="clr-namespace:WPF.Properties"
+        mc:Ignorable="d"
+        Title="{x:Static p:Resources.TeamOverview}" Height="534" Width="398" WindowStartupLocation="CenterScreen"
+        Background="IndianRed" Name="teamOverviewWindow">
+    <Grid Name="grid">
+        
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="5*"/>
+            <ColumnDefinition Width="5*"/>
+            <ColumnDefinition Width="5*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="0.2*" />
+        </Grid.RowDefinitions>
+
+        <Label Name ="lb1" Grid.Column="1" Grid.Row="1" Content="{x:Static p:Resources.Name}" HorizontalAlignment="Stretch" Margin="0,10,0,0" VerticalAlignment="Stretch"/>
+        <Label Name ="lbName" Grid.Column="2" Grid.Row="1" Content="[country name]" HorizontalAlignment="Stretch" Margin="0,10,0,0" VerticalAlignment="Stretch" />
+        <Label Name="lb2" Grid.Column="1" Grid.Row="2" Content="{x:Static p:Resources.FifaCode}" HorizontalAlignment="Stretch" Margin="0,10,0,0" VerticalAlignment="Stretch"/>
+        <Label Name="lbFifaCode" Grid.Column="2" Grid.Row="2" Content="[fifa code]" HorizontalAlignment="Stretch" Margin="0,10,0,0" VerticalAlignment="Stretch" />
+        <Label Name="lb3" Grid.Column="1" Grid.Row="3" Content="{x:Static p:Resources.GamesPlayed}" HorizontalAlignment="Stretch" Margin="0,10,0,0" VerticalAlignment="Stretch" />
+        <Label Name="lb4" Grid.Column="2" Grid.Row="4" Content="Total:" HorizontalAlignment="Stretch" Margin="0,10,0,0" VerticalAlignment="Stretch" />
+        <Label Name="lbGames" Grid.Column="3" Grid.Row="4" Content="[number of games]" HorizontalAlignment="Stretch" Margin="0,10,0,0" VerticalAlignment="Stretch" />
+        <Label Name="lb5" Grid.Column="2" Grid.Row="5" Content="{x:Static p:Resources.Wins}" HorizontalAlignment="Stretch" Margin="0,10,0,0" VerticalAlignment="Stretch"/>
+        <Label Name="lbWins" Grid.Column="3" Grid.Row="5" Content="[wins]" HorizontalAlignment="Stretch" Margin="0,10,0,0" VerticalAlignment="Stretch" />
+        <Label Name="lb6" Grid.Column="2" Grid.Row="6" Content="{x:Static p:Resources.Losses}" HorizontalAlignment="Stretch" Margin="0,10,0,0" VerticalAlignment="Stretch" />
+        <Label Name ="lbLosses" Grid.Column="3" Grid.Row="6" Content="[losses]" HorizontalAlignment="Stretch" Margin="0,10,0,0" VerticalAlignment="Stretch" />
+        <Label Name="lb7" Grid.Column="2" Grid.Row="7" Content="{x:Static p:Resources.Draws}" HorizontalAlignment="Stretch" Margin="0,10,0,0" VerticalAlignment="Stretch"  />
+        <Label Name="lbDraws"  Grid.Column="3" Grid.Row="7" Content="[draws]" HorizontalAlignment="Stretch" Margin="0,10,0,0" VerticalAlignment="Stretch" />
+        <Label Name="lb8" Grid.Column="1" Grid.Row="8" Content="{x:Static p:Resources.Goals}" HorizontalAlignment="Stretch" Margin="0,10,0,0" VerticalAlignment="Stretch" />
+        <Label Name="lb9" Grid.Column="2" Grid.Row="9" Content="{x:Static p:Resources.Scored}" HorizontalAlignment="Stretch" Margin="0,10,0,0" VerticalAlignment="Stretch" />
+        <Label Name="lbGoalsScored" Grid.Column="3" Grid.Row="9" Content="[scored]" HorizontalAlignment="Stretch" Margin="0,10,0,0" VerticalAlignment="Stretch" />
+        <Label Name="lb10" Grid.Column="2" Grid.Row="10" Content="{x:Static p:Resources.Conceded}" HorizontalAlignment="Stretch" Margin="0,10,0,0" VerticalAlignment="Stretch" />
+        <Label Name="lbGoalsConceded" Grid.Column="3" Grid.Row="10" Content="[conceded]" HorizontalAlignment="Stretch" Margin="0,10,0,0" VerticalAlignment="Stretch" />
+        <Label Name="lb11" Grid.Column="2" Grid.Row="11" Content="{x:Static p:Resources.Difference}" HorizontalAlignment="Stretch" Margin="0,10,0,0" VerticalAlignment="Stretch" />
+        <Label Name="lbGoalsDifference" Grid.Column="3" Grid.Row="11" Content="[scored-conceded]" HorizontalAlignment="Stretch" Margin="0,10,0,0" VerticalAlignment="Stretch" />
+
+        <Button Name="btnConfirm" Grid.Column="1" Grid.Row="12" Content="{x:Static p:Resources.Close}" VerticalAlignment="Top" Grid.ColumnSpan="3" Height="37" Margin="117,36,117,0" Grid.RowSpan="3" Click="btnConfirm_Click"/>
+
+    </Grid>
+</Window>

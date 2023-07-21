@@ -1,0 +1,25 @@
+﻿<UserControl x:Class="WPF.User_controls.PlayersUC"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:WPF.User_controls"
+             mc:Ignorable="d" Height="85" Width="70">
+    <Border Name="borderUC" BorderThickness="1,0,1,1" BorderBrush="IndianRed">
+        <Grid Name="gridUC" Background="IndianRed">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="6.5*" />
+                <RowDefinition Height="3*" />
+            </Grid.RowDefinitions>
+
+            
+
+            <Image Name="imagePlayer" Source="../Properties/Images/PlayerIcon.png" Grid.Row="0"  Margin="0,1,0,0" Stretch="Fill"/>
+            <TextBox Name="lbName" Grid.Row="1" Text="[Name]yyyyyyyyyy" Background="Transparent" Padding="0,0,0,0" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="9"  MaxHeight="30" MaxWidth="70"  IsReadOnly="True" TextWrapping="Wrap" BorderThickness="0,0,0,0"/>
+            <Label Name="lbShirtNumber" Grid.Row="0" Content="[n]" VerticalAlignment="Bottom" HorizontalAlignment="Center" Padding="0,0,0,5" Foreground="IndianRed"/>
+        </Grid>
+        
+    </Border>
+    
+</UserControl>
+

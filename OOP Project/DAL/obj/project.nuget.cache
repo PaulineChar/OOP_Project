@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "SBnKJdsIMX+qJ0z852dZRM7bK4+xp1uGvg2eW+X6OADs/aiBLOTKmEGscpN8q0DGtAqwaaYa3BtaOSBbsY5npw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pauline\\OneDrive\\Documents\\Algebra\\Object-oriented programming - lab in .NET environment\\OOPNET - CHARASSON Pauline - 2RPE1\\OOP Project\\DAL\\DAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pauline\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Pauline\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\Pauline\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Pauline\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\Pauline\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

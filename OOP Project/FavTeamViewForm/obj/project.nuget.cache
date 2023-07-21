@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "UL8Difjak2i0lp8KkOcaf1hFHgMqGqawHjhDYyI8PLnpoauznfrv+LkyDR4hm6HHWDUPTTzUXegf22YkX8DBJw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pauline\\OneDrive\\Documents\\Algebra\\Object-oriented programming - lab in .NET environment\\OOPNET - CHARASSON Pauline - 2RPE1\\OOP Project\\FavTeamViewForm\\UI_Windows Forms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pauline\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Pauline\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\Pauline\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Pauline\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\Pauline\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

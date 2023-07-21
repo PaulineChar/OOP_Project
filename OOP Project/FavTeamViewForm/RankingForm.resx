@@ -1,0 +1,381 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="cmsiAsc.Size" type="System.Drawing.Size, System.Drawing">
+    <value>72, 24</value>
+  </data>
+  <data name="&gt;&gt;flpGridContainer.Parent" xml:space="preserve">
+    <value>tpPlayerRanking</value>
+  </data>
+  <data name="&gt;&gt;cmsSort.Name" xml:space="preserve">
+    <value>cmsSort</value>
+  </data>
+  <data name="tsbPrint.ImageTransparentColor" type="System.Drawing.Color, System.Drawing">
+    <value>Magenta</value>
+  </data>
+  <data name="&gt;&gt;tsOption.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="cmsiDesc.Size" type="System.Drawing.Size, System.Drawing">
+    <value>72, 24</value>
+  </data>
+  <data name="&gt;&gt;tpPlayerRanking.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="sortByToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>244, 32</value>
+  </data>
+  <data name="tpPlayerRanking.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1225, 782</value>
+  </data>
+  <data name="flpMatchContainer.Location" type="System.Drawing.Point, System.Drawing">
+    <value>8, 3</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="tpPlayerRanking.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="csmiCardsDesc.Size" type="System.Drawing.Size, System.Drawing">
+    <value>205, 34</value>
+  </data>
+  <data name="&gt;&gt;tsOption.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;sortByToolStripMenuItem.Name" xml:space="preserve">
+    <value>sortByToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;tpMatchRanking.Name" xml:space="preserve">
+    <value>tpMatchRanking</value>
+  </data>
+  <data name="&gt;&gt;tcRanking.Name" xml:space="preserve">
+    <value>tcRanking</value>
+  </data>
+  <data name="&gt;&gt;sortByToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="csmiGoalsDesc.Text" xml:space="preserve">
+    <value>descending</value>
+  </data>
+  <data name="&gt;&gt;csmiGoalsDesc.Name" xml:space="preserve">
+    <value>csmiGoalsDesc</value>
+  </data>
+  <data name="tspSettings.Size" type="System.Drawing.Size, System.Drawing">
+    <value>34, 28</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="tpMatchRanking.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;sortByGoalsToolStripMenuItem.Name" xml:space="preserve">
+    <value>sortByGoalsToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;csmiCardsDesc.Name" xml:space="preserve">
+    <value>csmiCardsDesc</value>
+  </data>
+  <data name="&gt;&gt;cmsiGoalsAsc.Name" xml:space="preserve">
+    <value>cmsiGoalsAsc</value>
+  </data>
+  <data name="&gt;&gt;tpMatchRanking.Parent" xml:space="preserve">
+    <value>tcRanking</value>
+  </data>
+  <data name="&gt;&gt;cmsiAsc.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cmsiAsc.Name" xml:space="preserve">
+    <value>cmsiAsc</value>
+  </data>
+  <data name="&gt;&gt;tpPlayerRanking.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="tspSettings.ImageTransparentColor" type="System.Drawing.Color, System.Drawing">
+    <value>Magenta</value>
+  </data>
+  <data name="&gt;&gt;cmsiDesc.Name" xml:space="preserve">
+    <value>cmsiDesc</value>
+  </data>
+  <data name="&gt;&gt;cmsiGoalsAsc.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="contextMenuStrip1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>73, 52</value>
+  </data>
+  <data name="&gt;&gt;tspSettings.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripButton, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;flpGridContainer.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="tpMatchRanking.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1225, 782</value>
+  </data>
+  <data name="&gt;&gt;tpMatchRanking.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="tcRanking.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="flpGridContainer.Location" type="System.Drawing.Point, System.Drawing">
+    <value>8, 3</value>
+  </data>
+  <data name="tpPlayerRanking.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="sortByGoalsToolStripMenuItem.Text" xml:space="preserve">
+    <value>Sort by goals</value>
+  </data>
+  <data name="&gt;&gt;tcRanking.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;flpMatchContainer.Type" xml:space="preserve">
+    <value>System.Windows.Forms.FlowLayoutPanel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="tpPlayerRanking.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 34</value>
+  </data>
+  <data name="tsOption.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1237, 33</value>
+  </data>
+  <data name="&gt;&gt;tpPlayerRanking.Name" xml:space="preserve">
+    <value>tpPlayerRanking</value>
+  </data>
+  <data name="&gt;&gt;csmiGoalsDesc.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="tcRanking.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1233, 820</value>
+  </data>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>10, 25</value>
+  </data>
+  <data name="&gt;&gt;flpMatchContainer.Name" xml:space="preserve">
+    <value>flpMatchContainer</value>
+  </data>
+  <data name="&gt;&gt;csmiCardsDesc.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="csmiCardsAsc.Text" xml:space="preserve">
+    <value>ascending</value>
+  </data>
+  <data name="&gt;&gt;tspSettings.Name" xml:space="preserve">
+    <value>tspSettings</value>
+  </data>
+  <data name="&gt;&gt;flpGridContainer.Name" xml:space="preserve">
+    <value>flpGridContainer</value>
+  </data>
+  <data name="tpMatchRanking.Text" xml:space="preserve">
+    <value>Match Ranking</value>
+  </data>
+  <data name="cmsiGoalsAsc.Text" xml:space="preserve">
+    <value>ascending</value>
+  </data>
+  <data name="tpPlayerRanking.Text" xml:space="preserve">
+    <value>Player ranking</value>
+  </data>
+  <data name="&gt;&gt;csmiCardsAsc.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="csmiCardsDesc.Text" xml:space="preserve">
+    <value>descending</value>
+  </data>
+  <data name="tspSettings.Text" xml:space="preserve">
+    <value>Settings</value>
+  </data>
+  <data name="&gt;&gt;tsOption.Name" xml:space="preserve">
+    <value>tsOption</value>
+  </data>
+  <data name="tsOption.Text" xml:space="preserve">
+    <value>toolStrip1</value>
+  </data>
+  <data name="&gt;&gt;flpMatchContainer.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="flpGridContainer.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;tcRanking.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="csmiCardsAsc.Size" type="System.Drawing.Size, System.Drawing">
+    <value>205, 34</value>
+  </data>
+  <data name="&gt;&gt;flpMatchContainer.Parent" xml:space="preserve">
+    <value>tpMatchRanking</value>
+  </data>
+  <data name="&gt;&gt;tsOption.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStrip, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cmsiDesc.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tsbPrint.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripButton, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="$this.AutoScroll" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;tcRanking.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabControl, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="flpMatchContainer.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1181, 742</value>
+  </data>
+  <data name="sortByGoalsToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>244, 32</value>
+  </data>
+  <data name="tsbPrint.Text" xml:space="preserve">
+    <value>Print</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>1237, 885</value>
+  </data>
+  <data name="sortByToolStripMenuItem.Text" xml:space="preserve">
+    <value>Sort by yellow cards</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;contextMenuStrip1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ContextMenuStrip, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="cmsiGoalsAsc.Size" type="System.Drawing.Size, System.Drawing">
+    <value>205, 34</value>
+  </data>
+  <data name="tsOption.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;contextMenuStrip1.Name" xml:space="preserve">
+    <value>contextMenuStrip1</value>
+  </data>
+  <data name="&gt;&gt;cmsSort.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ContextMenuStrip, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;csmiCardsAsc.Name" xml:space="preserve">
+    <value>csmiCardsAsc</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>RankingForm</value>
+  </data>
+  <data name="flpGridContainer.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1181, 742</value>
+  </data>
+  <data name="tpMatchRanking.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 34</value>
+  </data>
+  <data name="tsbPrint.Size" type="System.Drawing.Size, System.Drawing">
+    <value>34, 28</value>
+  </data>
+  <data name="&gt;&gt;sortByGoalsToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tpMatchRanking.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="csmiGoalsDesc.Size" type="System.Drawing.Size, System.Drawing">
+    <value>205, 34</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Rankings</value>
+  </data>
+  <data name="tpMatchRanking.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="tcRanking.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 33</value>
+  </data>
+  <data name="&gt;&gt;tsbPrint.Name" xml:space="preserve">
+    <value>tsbPrint</value>
+  </data>
+  <data name="flpGridContainer.AutoScroll" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;flpGridContainer.Type" xml:space="preserve">
+    <value>System.Windows.Forms.FlowLayoutPanel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="cmsSort.Size" type="System.Drawing.Size, System.Drawing">
+    <value>245, 68</value>
+  </data>
+  <data name="tsOption.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="flpMatchContainer.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;tpPlayerRanking.Parent" xml:space="preserve">
+    <value>tcRanking</value>
+  </data>
+  <metadata name="cmsSort.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>175, 12</value>
+  </metadata>
+  <metadata name="$this.Language" type="System.Globalization.CultureInfo, System.Private.CoreLib, Culture=neutral, PublicKeyToken=7cec85d7bea7798e">
+    <value>fr</value>
+  </metadata>
+  <metadata name="contextMenuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>435, 12</value>
+  </metadata>
+  <metadata name="tsOption.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>302, 12</value>
+  </metadata>
+  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>45</value>
+  </metadata>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+</root>
